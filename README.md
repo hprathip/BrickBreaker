@@ -1,4 +1,4 @@
-Bricks Breaker Game using Core Java
+**Bricks Breaker Game using Core Java**
 
 It is a simple brick breaker game developed using Java Swings, where the player can use the arrow keys to move the slider to bounce the ball and the bricks grid.
 
